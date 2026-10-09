@@ -20,16 +20,16 @@
 
 ## What I'm Working On
 
-- 🛰️ Satellite Autonomous Anomaly Detection — Developing an embedded satellite prototype for real-time sensor data collection and exploring machine learning for anomaly detection.
+- 🛰️ *Satellite Autonomous Anomaly Detection* — Developing an embedded satellite prototype for real-time sensor data collection and exploring machine learning for anomaly detection.
 
-- 🏗️ CapstonePM — Building a project management system using React, TypeScript, ASP.NET Core, and Entity Framework Core.
+- 🏗️ *CapstonePM* — Building a project management system using React, TypeScript, ASP.NET Core, and Entity Framework Core.
 
 - 📚 **Untold** — Developing a digital storytelling platform where users can discover, read, and publish stories.
 
 📜 Certifications & Professional Development
 
-- ☁️ AWS Cloud Technology Consultant Professional Certificate — Amazon Web Services(AWS), Coursera(In Progress)
-- 💻COBOL Programming Certificate—Coursera(In Progress)
+- ☁️ *AWS Cloud Technology Consultant Professional Certificate*— Amazon Web Services(AWS), Coursera(In Progress)
+- 💻*COBOL Programming Certificate*— Coursera(In Progress)
 
 ---
 
