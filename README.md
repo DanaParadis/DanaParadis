@@ -28,7 +28,8 @@
 
 📜 Certifications & Professional Development
 
-- ☁️ **AWS Cloud Technology Consultant Professional Certificate**— Amazon Web Services(AWS), Coursera(In Progress)
+- ☁️ **AWS Cloud Technology Consultant Professional Certificate** — Amazon Web Services (AWS), Coursera(In Progress) 
+  - **Introduction to Information Technology and AWS Cloud** — [View Certificate](./Coursera%20I2HGHKMOZVAE.pdf)
 - 💻**COBOL Programming Certificate**— Coursera(In Progress)
 
 ---
