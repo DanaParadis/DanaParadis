@@ -24,8 +24,6 @@
 
 - 🏗️ **CapstonePM** — Building a project management system using React, TypeScript, ASP.NET Core, and Entity Framework Core.
 
-- 📚 **Untold** — Developing a digital storytelling platform where users can discover, read, and publish stories.
-
 📜 Certifications & Professional Development
 
 - ☁️ **AWS Cloud Technology Consultant Professional Certificate** — Amazon Web Services (AWS), Coursera(In Progress) 
